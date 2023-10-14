@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+
+
 # About Me
 I am a **Master of Science** student at **McMaster** University, specializing in **Computer Engineering** with a strong background in **Data Science** and **Algorithms**. My passion lies in coding, particularly in languages like **C++** and **Python**, where I enjoy solving complex problems and optimizing algorithms for real-world applications.
-
+![DALL·E 2023-10-14 16 48 18 - Photo of a sleek computer setup amidst a dimly lit room, illuminated by the radiant glow of code on the screen  An animated boy with black hair and gl](https://github.com/Markeloen/Markeloen/assets/52878031/a9bae535-e784-47ef-afab-22f07788cef0)
 # Current Projects
 ## 1. Free Space Optical Link Simulation <br>
 
